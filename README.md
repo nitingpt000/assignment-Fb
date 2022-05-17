@@ -15,7 +15,9 @@ follow the steps to setup the project
   npm run start
   ```
 - setup frontend second
-  `sh cd frontend/ npm install npm run start `
+  ```sh cd frontend/ npm install npm run start
+
+  ```
   tasks i have completed
 
 ## Backend
