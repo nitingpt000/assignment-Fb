@@ -20,17 +20,17 @@ follow the steps to setup the project
 
 ## Backend
 
-[x] - Create a NodeJS server using HAPI/Express framework.
-[x] - Add a route with GET request.
-[x] - Add a route for POST request along with validation payload and error handler for request.
-After this you can see all the things are running fine.
+- Create a NodeJS server using HAPI/Express framework.
+- Add a route with GET request.
+- Add a route for POST request along with validation payload and error handler for request.
+  After this you can see all the things are running fine.
 
 ## Frontend
 
-[x] - Create a card view to show movies
-[x] - Each movie should have movie name, rating, released date
-[x] - Create a simple JSON for movies data. Minimum 20 movies required.
-[x] - Create a simple API in NodeJS to read data from JSON source
-[x] - Integrate your React app with the NodeJS API.
-[x] - Use React router in wherever possible here.
-[x] - Application UI should be clean and simple.
+- Create a card view to show movies
+- Each movie should have movie name, rating, released date
+- Create a simple JSON for movies data. Minimum 20 movies required.
+- Create a simple API in NodeJS to read data from JSON source
+- Integrate your React app with the NodeJS API.
+- Use React router in wherever possible here.
+- Application UI should be clean and simple.
